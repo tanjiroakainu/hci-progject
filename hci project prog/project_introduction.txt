@@ -1,0 +1,65 @@
+ABRAHAM LINCOLN EDUCATIONAL WEBSITE PROJECT
+===========================================
+
+PROJECT OVERVIEW
+---------------
+This project is a static educational website about Abraham Lincoln, the 16th President of the United States. The website consists of 10 interlinked HTML pages that provide comprehensive information about Lincoln's life, political career, presidency, and legacy.
+
+TOPIC FOCUS
+----------
+The website covers various aspects of Abraham Lincoln's life:
+- Early life and education in Kentucky, Indiana, and Illinois
+- Political career from Illinois legislature to presidency
+- Presidency during the American Civil War (1861-1865)
+- Leadership during the Civil War
+- Emancipation Proclamation and abolition of slavery
+- Assassination at Ford's Theatre
+- Timeline of key events in Lincoln's life
+- Photo gallery of historical images
+- Additional educational resources  
+
+CODE STRUCTURE
+-------------
+The website uses a simple, consistent code structure across all pages:
+
+1. HTML5 Document Structure:
+   - Standard HTML5 doctype declaration
+   - Meta tags for character set and viewport
+   - Page-specific titles
+
+2. CSS Styling:
+   - Embedded CSS within each page (no external stylesheets)
+   - Consistent color scheme featuring blue headers (#2c5aa0)
+   - Responsive design with flexible layouts
+   - Container-based content organization
+   - Specialized styling for gallery, timeline, and resources pages
+
+3. Page Organization:
+   - Header section with title and subtitle
+   - Navigation bar with links to all 10 pages
+   - Content container with headings, paragraphs, and images
+   - Consistent styling across all pages
+
+4. Navigation System:
+   - Simple text-based navigation bar
+   - Current page highlighting
+   - Hover effects for improved user experience
+
+5. Special Features:
+   - Photo gallery with grid layout and hover effects
+   - Timeline with chronological listing
+   - External resource links with target="_blank" for proper opening
+
+TECHNICAL DETAILS
+----------------
+The website is built using only HTML5 and CSS3, with no JavaScript or external dependencies. This approach ensures:
+
+- Fast loading times
+- Maximum compatibility across browsers and devices
+- Easy maintenance and updating
+- Accessibility compliance
+- Simple hosting requirements
+
+Each page maintains the same visual identity while adapting its content to a specific aspect of Lincoln's life and legacy. The modular structure allows for easy expansion with additional pages if needed.
+
+The website serves as both an educational resource about Abraham Lincoln and a demonstration of clean, semantic HTML5 structure with CSS styling.
